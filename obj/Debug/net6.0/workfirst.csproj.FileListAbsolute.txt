@@ -1,0 +1,15 @@
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.csproj.AssemblyReference.cache
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.AssemblyInfoInputs.cache
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.AssemblyInfo.cs
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.csproj.CoreCompileInputs.cache
+C:\Users\thanas11065\Desktop\MDT211\workfirst\bin\Debug\net6.0\workfirst.exe
+C:\Users\thanas11065\Desktop\MDT211\workfirst\bin\Debug\net6.0\workfirst.deps.json
+C:\Users\thanas11065\Desktop\MDT211\workfirst\bin\Debug\net6.0\workfirst.runtimeconfig.json
+C:\Users\thanas11065\Desktop\MDT211\workfirst\bin\Debug\net6.0\workfirst.dll
+C:\Users\thanas11065\Desktop\MDT211\workfirst\bin\Debug\net6.0\workfirst.pdb
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.dll
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\refint\workfirst.dll
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.pdb
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\workfirst.genruntimeconfig.cache
+C:\Users\thanas11065\Desktop\MDT211\workfirst\obj\Debug\net6.0\ref\workfirst.dll
